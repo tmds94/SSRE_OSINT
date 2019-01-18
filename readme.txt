@@ -1,5 +1,5 @@
 
-########################## SSRE OSINT 2018/19 v1.1 ########################## 
+########################## SSRE OSINT 2018/19 v1.2 ########################## 
         Created by:  Kevin Vieira, Pedro Sousa Silva e Tiago Simões 
         
         Faculdade de Engenharia da Universidade do Porto 
